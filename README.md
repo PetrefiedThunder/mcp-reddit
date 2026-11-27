@@ -14,6 +14,10 @@ Browse subreddits, search posts, read comments — no authentication required.
 | `get_comments` | Get comments on a post. |
 | `get_subreddit_info` | Get subreddit metadata. |
 
+## Requirements
+
+Requires Node.js 22.12 or newer (22.12+, 24, or 26+). Node 20 is not supported: the vitest 5 test runner requires Node 22.12 or newer.
+
 ## Installation
 
 ```bash
